@@ -1,0 +1,77 @@
+Q0: How can I reset my password?
+A0: Go to the login page, click the “Forgot Password” option and follow the email instructions to create a new password.
+
+Q1: How can I change my registered email address?
+A1: Go to Account Settings → Personal Information → Edit Email and update your email address.
+
+Q2: I am not receiving the password reset email. What should I do?
+A2: Check your spam folder, ensure your email is typed correctly, or try again after 5 minutes.
+
+Q3: How can I track my order?
+A3: Go to “My Orders” and select the order you want to track. The live tracking status will be shown there.
+
+Q4: How long does delivery take?
+A4: Standard delivery takes 3–7 business days depending on the location.
+
+Q5: My order is delayed. What should I do?
+A5: Check the tracking page for updates or contact customer support with your order ID.
+
+Q6: How can I cancel my order?
+A6: Go to My Orders → Select Order → Cancel Order (available only before the order is shipped).
+
+Q7: What payment methods do you accept?
+A7: We accept credit/debit cards, UPI, net banking, and Cash on Delivery (COD).
+
+Q8: My payment failed, but money was deducted. What now?
+A8: The amount is usually refunded within 3–7 business days automatically.
+
+Q9: How can I contact customer support?
+A9: Email us at support@example.com or call +91-9999999999 (Mon–Sat, 10 AM–6 PM).
+
+Q10: How do I update my phone number?
+A10: Go to Account Settings → Edit Profile → Update Phone Number.
+
+Q11: How do I change my address?
+A11: Visit Address Book in your account and click Edit or Add New Address.
+
+Q12: Can I return a product?
+A12: Yes, products can be returned within 7 days of delivery if they meet the return conditions.
+
+Q13: How do I request a refund?
+A13: Go to My Orders → Select Order → Request Refund.
+
+Q14: How long do refunds take?
+A14: Refunds are processed within 3–7 business days once approved.
+
+Q15: Can I exchange an item?
+A15: Exchanges are allowed for size and color issues, depending on availability.
+
+Q16: I received a damaged product. What should I do?
+A16: Upload a photo of the damaged product and initiate a return request in the app.
+
+Q17: Do you offer international shipping?
+A17: No, currently we only ship within India.
+
+Q18: How can I apply a discount coupon?
+A18: On the checkout page, enter the promo code in the "Apply Coupon" section.
+
+Q19: My coupon is not working. Why?
+A19: Coupons may expire, have usage limits, or apply only to specific categories.
+
+Q20: Is Cash on Delivery available?
+A20: Yes, COD is available for most orders below ₹5000.
+
+Q21: How do I delete my account?
+A21: Go to Settings → Privacy → Delete Account. Follow the confirmation steps.
+
+Q22: How do I check my wallet balance?
+A22: Visit Wallet under your profile to see available credits or refunds.
+
+Q23: My order shows “Delivered” but I didn’t receive it. What to do?
+A23: Contact support with your order ID. We will verify with the delivery partner.
+
+Q24: How can I change my payment method after placing an order?
+A24: Payment method cannot be changed after placing the order.
+
+Q25: Can I schedule my delivery?
+A25: Yes, scheduled delivery is available in selected cities during checkout.

@@ -1,0 +1,13 @@
+streamlit
+torch
+transformers
+sentence-transformers
+faiss-cpu
+gtts
+pyglet
+SpeechRecognition
+langchain==0.3.8
+langchain-core==0.3.15
+langchain-community==0.3.8
+langchain-text-splitters==0.3.8
+langchain-huggingface==0.3.1
