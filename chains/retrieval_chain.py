@@ -1,7 +1,7 @@
 # chains/retrieval_chain.py
 
 from utils.db_utils import load_vector_db
-from langchain.memory import ConversationBufferMemory
+from langchain.memory.buffer import ConversationBufferMemory
 from langchain.chains.retrieval_qa.base import RetrievalQA
 
 def get_retrieval_chain(llm):
